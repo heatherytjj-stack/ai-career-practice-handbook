@@ -1,0 +1,5 @@
+~$*.docx
+*.tmp
+*.bak
+_handbook_build/
+

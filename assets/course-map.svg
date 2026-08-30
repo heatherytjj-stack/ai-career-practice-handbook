@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="AI 职业实战手册课程路径图">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071d3b"/><stop offset="1" stop-color="#103e5b"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#52d6ca"/><stop offset=".52" stop-color="#f4c669"/><stop offset="1" stop-color="#52d6ca"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="9" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="95" cy="95" r="250" fill="#1e7590" opacity=".18"/><circle cx="1510" cy="820" r="320" fill="#0bc2b0" opacity=".10"/>
+  <path d="M180 500 C370 360 495 640 690 500 S1000 360 1170 500 S1350 610 1450 450" fill="none" stroke="url(#line)" stroke-width="14" opacity=".95" filter="url(#glow)"/>
+  <text x="800" y="175" text-anchor="middle" font-family="SimSun, serif" font-size="88" font-weight="700" letter-spacing="8" fill="#ffffff">AI 职业实战手册</text>
+  <text x="800" y="255" text-anchor="middle" font-family="Times New Roman, SimSun, serif" font-size="34" letter-spacing="4" fill="#8de0d5">WORKBUDDY · 协同应用与智能体实践</text>
+  <g font-family="SimSun, serif" text-anchor="middle">
+    <g transform="translate(170,500)"><circle r="88" fill="#0b2b4d" stroke="#53d7ca" stroke-width="5"/><text y="-8" font-size="46" font-weight="700" fill="#fff">AI</text><text y="42" font-size="30" fill="#fff">基础</text><text y="135" font-size="23" fill="#8de0d5">01</text></g>
+    <g transform="translate(420,430)"><circle r="88" fill="#103755" stroke="#6dded4" stroke-width="5"/><text y="-8" font-size="42" font-weight="700" fill="#fff">智能</text><text y="42" font-size="30" fill="#fff">办公</text><text y="135" font-size="23" fill="#8de0d5">02</text></g>
+    <g transform="translate(665,545)"><circle r="88" fill="#135162" stroke="#f4c669" stroke-width="5"/><text y="-8" font-family="Times New Roman, SimSun, serif" font-size="35" font-weight="700" fill="#fff">Work</text><text y="36" font-family="Times New Roman, SimSun, serif" font-size="35" font-weight="700" fill="#fff">Buddy</text><text y="135" font-size="23" fill="#f4d58a">03</text></g>
+    <g transform="translate(915,440)"><circle r="88" fill="#103755" stroke="#6dded4" stroke-width="5"/><text y="-8" font-size="42" font-weight="700" fill="#fff">创作</text><text y="42" font-size="30" fill="#fff">连接</text><text y="135" font-size="23" fill="#8de0d5">04</text></g>
+    <g transform="translate(1160,510)"><circle r="88" fill="#0b2b4d" stroke="#53d7ca" stroke-width="5"/><text y="-8" font-size="42" font-weight="700" fill="#fff">行业</text><text y="42" font-size="30" fill="#fff">研究</text><text y="135" font-size="23" fill="#8de0d5">05</text></g>
+    <g transform="translate(1400,430)"><circle r="88" fill="#135162" stroke="#f4c669" stroke-width="5"/><text y="-8" font-size="42" font-weight="700" fill="#fff">智能</text><text y="42" font-size="30" fill="#fff">体</text><text y="135" font-size="23" fill="#f4d58a">06</text></g>
+  </g>
+  <text x="800" y="760" text-anchor="middle" font-family="SimSun, serif" font-size="39" font-weight="700" letter-spacing="5" fill="#ffffff">从会用 AI，到完成真实职业任务</text>
+</svg>
